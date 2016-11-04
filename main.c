@@ -6,6 +6,6 @@ int soustraction(a,b){
 }
 int main()
 {
-    printf("La soustraction de a et de b vaut %d.\n", soustraction(1,4));
+    printf("a-b=%d.\n", soustraction(1,4));
     return 0;
 }
